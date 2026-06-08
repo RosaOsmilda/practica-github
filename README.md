@@ -1,2 +1,3 @@
-# practica-github
-Repositorio público para la práctica de GitHub con ramas main y dev.
+Práctica de GitHub
+Nombre: Rosa Batista
+Fecha: Junio 2026
